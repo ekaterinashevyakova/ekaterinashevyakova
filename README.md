@@ -115,6 +115,17 @@ University of Padua | February 2026
 
 Training in intercultural communication, critical thinking and multicultural collaboration, including a seminar on generative AI and its role in society.
 
+## Red Bull Wingfinder — Talent Passport
+
+Completed on **30 October 2026**. My top strengths, as identified by the Wingfinder assessment:
+
+- **Supportive:** collaboration, consideration for others and building trust.
+- **Confident:** initiative and willingness to face challenges.
+- **Achiever:** drive, ambition and focus on making an impact.
+- **Agile:** fast learning and logical, analytical problem-solving.
+
+[View my Wingfinder Talent Passport (PDF)](Ekaterina_Shevyakova_Red_Bull_Wingfinder.pdf)
+
 ## Languages and Contact
 
 English C2 · Italian B1 · German A2–B1 · Russian native
