@@ -1,6 +1,6 @@
 # Hi, I'm Ekaterina Shevyakova
 
-**AI & Growth Analytics | Applied AI & GTM Automation | Python, SQL, Power BI | Marketing Science & Revenue Analytics**
+**Data & Business Analytics | Applied AI & GTM Automation | Python, SQL, Power BI | Growth & Revenue Analytics**
 
 I work at the intersection of data analytics, applied AI, growth and business, turning customer and commercial data into actionable insights, better products and more efficient processes. My background combines marketing and sales analytics, product ownership and entrepreneurship.
 
