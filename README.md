@@ -26,6 +26,8 @@ Based in Padua, Italy. Open to international remote, hybrid and on-site opportun
 
 **In development · Global AI Hackathon 2026 · Team of four**
 
+<img src="Global_AI_Hackathon_2026_Participant.jpg" alt="Ekaterina Shevyakova participant card for Global AI Hackathon 2026" width="640">
+
 MeetingBrief is a prototype designed to turn recent web research into a concise, source-backed meeting brief. Users will enter a company or person and a meeting time to receive relevant developments from the preceding 30 days, conversation starters, open questions, and information gaps.
 
 **Planned stack:** Python, Streamlit, Tavily Search API, Bifrost AI Gateway, and a language model.
