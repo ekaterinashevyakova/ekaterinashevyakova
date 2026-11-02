@@ -22,6 +22,27 @@ Based in Padua, Italy. Open to international remote, hybrid and on-site opportun
 
 ## Selected Projects
 
+### MeetingBrief — AI Meeting Preparation Assistant
+
+**In development · Global AI Hackathon 2026 · Team of four**
+
+MeetingBrief is a prototype designed to turn recent web research into a concise, source-backed meeting brief. Users will enter a company or person and a meeting time to receive relevant developments from the preceding 30 days, conversation starters, open questions, and information gaps.
+
+**Planned stack:** Python, Streamlit, Tavily Search API, Bifrost AI Gateway, and a language model.
+
+**My planned contribution:** User interface development, input forms, briefing presentation, and the end-to-end user experience, alongside shared integration and testing.
+
+**Skills and topics I’ll practise:**
+
+- Integrating external APIs into a Python application
+- Building research and language-model workflows
+- Generating structured outputs grounded in retrieved sources
+- Validating citations, dates, and source relevance
+- Handling ambiguous inputs, missing information, and API errors
+- Collaborating through GitHub and documenting a reproducible setup
+
+**Prototype goal:** A one-page briefing with traceable factual claims and a clear distinction between verified information, suggestions, and uncertainty.
+
 ### AI Analytics Copilot
 
 **Independent prototype | In development | LLM API, SQL, chat interface, tool calling**
